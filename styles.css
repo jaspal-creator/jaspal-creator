@@ -29,7 +29,7 @@ header nav a {
     text-decoration: none;
 }
 
-main {
+main { 
     display: flex;
     flex-direction: column;
     align-items: center;
