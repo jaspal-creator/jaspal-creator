@@ -7,24 +7,27 @@ I'm a passionate software developer with a strong background in mobile and web d
 * **Mobile App Development**:
 	+ Android App Development (Java, Kotlin)
 	+ Flutter App Development (Dart)
+	+ React Native
 * **Web Development**:
 	+ Front-end Development (React, Next.js, JavaScript/TypeScript)
-	+ Back-end Development (PHP, Laravel, Node.js)
+	+ Back-end Development (PHP, Laravel, Node.js, Nestjs)
 	+ CMS Development (Wordpress, Codeigniter)
 * **Database Management**:
-	+ Relational Databases (MySQL, SQLite)
-	+ NoSQL Databases (MongoDB)
+	+ Relational Databases (MySQL, SQLite, Postgres)
+	+ NoSQL Databases (MongoDB, Couchbase, DocumentDB, Firestore)
 * **Cloud Services**:
 	+ Firebase
 	+ AWS
+ 	+ Kubernetes
+  	+ N8N
 * **Internet of Things (IoT)**:
-	+ Development of IoT-based solutions (MSP430, Arduino, Raspberry PI, ESP8266)
+	+ Development of IoT-based solutions (MSP430, Arduino, Raspberry PI, ESP8266, ESP32)
 
 ## Skills
 
 * Programming languages: Java, Kotlin, JavaScript, TypeScript, Dart, PHP
-* Frameworks: React, Next.js, Laravel, Codeigniter, Flutter
-* Databases: MySQL, SQLite, MongoDB
+* Frameworks: React, Next.js, Nuxtjs, Nextjs Laravel, Codeigniter, Flutter
+* Databases: MySQL, SQLite, MongoDB, Postgres
 * Operating Systems: Android, Windows, Linux
 * Agile methodologies: Scrum, Kanban
 
